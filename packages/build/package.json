@@ -1,0 +1,22 @@
+{
+  "name": "@event-calendar/build",
+  "version": "4.3.0",
+  "title": "Event Calendar",
+  "description": "Full-sized drag & drop event calendar with resource & timeline views",
+  "keywords": [
+    "calendar",
+    "event",
+    "resource",
+    "timeline",
+    "full-sized"
+  ],
+  "homepage": "https://krushna001m.github.io/calendar/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krushna001m/calendar.git",
+    "directory": "packages/build"
+  },
+  "license": "MIT",
+  "main": "./dist/event-calendar.min.js",
+  "style": "./dist/event-calendar.min.css"
+}
