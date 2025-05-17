@@ -1,0 +1,20 @@
+{
+  "name": "event-calendar",
+  "private": true,
+  "version": "4.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --mode iife",
+    "preview": "vite preview",
+    "set-version": "node ./scripts/set-version.cjs",
+    "publish": "node ./scripts/publish.cjs"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "sass": "^1.88.0",
+    "svelte": "^5.28.6",
+    "vite": "^6.3.5",
+    "vite-plugin-banner": "^0.8.1"
+  }
+}
