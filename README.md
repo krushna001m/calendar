@@ -1,5 +1,5 @@
 # EventCalendar 
-See [demo](https://vkurko.github.io/calendar/) and [changelog](CHANGELOG.md).
+See [demo](https://krushna001m.github.io/calendar/) and [changelog](CHANGELOG.md).
 
 Full-sized drag & drop JavaScript event calendar with resource & timeline views:
 
