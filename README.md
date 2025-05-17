@@ -1,4 +1,82 @@
 # EventCalendar 
+
+# 📅 Calendar Web App
+
+A responsive and lightweight calendar web application built using HTML, CSS, and JavaScript. This project helps users view dates and navigate through months and years with an intuitive and clean interface.
+
+---
+
+## 🌟 Features
+
+- ✅ Monthly calendar view
+- ✅ Highlights the current date
+- ✅ Navigate between months and years
+- ✅ Responsive design (mobile + desktop)
+- ✅ Minimal and clean UI
+
+---
+
+## 🚀 Live Demo
+
+**👉 [View Live Demo](https://krushna001m.github.io/calendar/)**  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+calendar/
+├── index.html       # Main HTML structure
+├── style.css        # Styling for the calendar
+├── script.js        # JavaScript logic (date, navigation)
+└── README.md        # Project documentation
+```
+
+---
+
+## 🎯 Use Cases
+
+* Learn how to manipulate dates with JavaScript
+* Practice DOM manipulation and event handling
+* Use as a starting point for building:
+
+  * Task managers
+  * Event planners
+  * Personal schedulers
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository
+
+   ```
+   git clone https://github.com/krushna001m/calendar.git
+   ```
+2. Open `index.html` in your browser
+
+   ```
+   cd calendar
+   open index.html  # or just double-click the file
+   ```
+
+---
+
+## 🧠 Author
+
+**Krushna Mengal**
+🔗 [GitHub Profile](https://github.com/krushna001m)
+
+---
+
 See [demo](https://krushna001m.github.io/calendar/) and [changelog](CHANGELOG.md).
 
 Full-sized drag & drop JavaScript event calendar with resource & timeline views:
