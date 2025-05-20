@@ -1,4 +1,3 @@
-# EventCalendar 
 
 # 📅 Calendar Web App
 
