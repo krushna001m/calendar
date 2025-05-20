@@ -70,11 +70,10 @@ calendar/
 
 ---
 
-## 🧠 Author
+## 👨‍💻 Author
 
-**Krushna Mengal**
-🔗 [GitHub Profile](https://github.com/krushna001m)
-
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
 ---
 
 See [demo](https://krushna001m.github.io/calendar/) and [changelog](CHANGELOG.md).
